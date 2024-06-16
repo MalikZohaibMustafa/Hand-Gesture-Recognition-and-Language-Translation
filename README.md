@@ -17,7 +17,7 @@ This project implements a hand gesture recognition system using MediaPipe for ha
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hand-gesture-recognition.git
+    git clone [https://github.com/MalikZohaibMustafa/Sign-Language-Translation.git](https://github.com/MalikZohaibMustafa/Sign-Language-Translation.git)
     cd hand-gesture-recognition
     ```
 
